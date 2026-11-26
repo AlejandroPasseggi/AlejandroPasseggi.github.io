@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alejandropasseggi.github.io/sitemap.xml
